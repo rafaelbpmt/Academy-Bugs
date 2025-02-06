@@ -18,8 +18,8 @@
 
 **Resultado encotrado:** O ícone de compartilhamento do X está redirecionando para uma página quebrada
 
+![Primeiro Bug Video](gifs/bug-1.gif)
 ![Primeiro Bug](imgs/bug-1.png)
-![Primeiro Bug](imgs/bug1.gif)
 
 
 
@@ -42,6 +42,7 @@
 
 **Resultado encontrado:** A moeda não é alterada quando clicado em "Select a currency"
 
+![Segundo Bug Video](gifs/bug-2.gif)
 ![Segundo Bug](imgs/bug-2.png)
 
 **[3º BUG] - Manufacturer 404 error** \
@@ -60,6 +61,7 @@
 
 **Resultado encontrado:** Ao clicar no link, abre uma página quebrada
 
+![Terceiro Bug Video](gifs/bug-3.gif)
 ![Terceiro Bug](imgs/bug-3.png)
 
 **[4º BUG] - Não é possível colocar mais de 3 produtos iguais no carrinho**
@@ -80,6 +82,7 @@ Reprodução do Bug:
 
 **Resultado encontrado:** Quando clicado em "update" a quantidade do produto volta para 2
 
+![Quarto Bug Video](gifs/bug-4.gif)
 ![Quarto Bug](imgs/bug-4.png)
 
 **[ 5º BUG] - Preço maior no valor total da compra** \
@@ -101,4 +104,5 @@ Reprodução do Bug:
 
 **Resultado encontrado:** o valor total é $100 maior do que o valor do carrinho
 
-![Quarto Bug](imgs/bug-10.png)
+![Quinto Bug Video](gifs/bug-4.gif)
+![Quinto Bug](imgs/bug-5.png)
