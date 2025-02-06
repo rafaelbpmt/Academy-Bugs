@@ -1,7 +1,7 @@
 
 ## Bugs Funcionais
 
-**[1º BUG] - Botão de compartilhamento no "X" não está funciondo corretamente**
+**[1º BUG] - Botão de compartilhamento no "X" não está funcionando corretamente**
 
 **Issue Type:** Funcional \
 **Prioridade:** Média \
