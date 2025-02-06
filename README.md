@@ -42,7 +42,7 @@
 
 **Resultado encontrado:** A moeda não é alterada quando clicado em "Select a currency"
 
-![Segundo Bug](imgs/bug-3.png)
+![Segundo Bug](imgs/bug-2.png)
 
 **[3º BUG] - Manufacturer 404 error** \
 **Issue Type:** Funcional \
@@ -60,7 +60,7 @@
 
 **Resultado encontrado:** Ao clicar no link, abre uma página quebrada
 
-![Terceiro Bug](imgs/bug-5.png)
+![Terceiro Bug](imgs/bug-3.png)
 
 **[4º BUG] - Não é possível colocar mais de 3 produtos iguais no carrinho**
 
@@ -80,7 +80,7 @@ Reprodução do Bug:
 
 **Resultado encontrado:** Quando clicado em "update" a quantidade do produto volta para 2
 
-![Quarto Bug](imgs/bug-9.png)
+![Quarto Bug](imgs/bug-4.png)
 
 **[ 5º BUG] - Preço maior no valor total da compra** \
 **Issue Type:** Funcional \
