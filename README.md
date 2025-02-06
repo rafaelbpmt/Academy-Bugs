@@ -1,8 +1,7 @@
 
 # 25 Bugs da AcademyBugs.com
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
+futura descrição
 
 ## Bugs Funcionais
 
@@ -28,7 +27,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 
 
-**[2º BUG] Câmbio de moedas não está funcionando** \
+**[2º BUG] Câmbio de moedas não está funcionando** 
 
 **Issue Type:** Funcional \
 **Prioridade:** Alta \
