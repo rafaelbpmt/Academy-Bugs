@@ -1,4 +1,9 @@
 
+# 25 Bugs da AcademyBugs.com
+
+Uma breve descrição sobre o que esse projeto faz e para quem ele é
+
+
 ## Bugs Funcionais
 
 **[1º BUG] - Botão de compartilhamento no "X" não está funciondo corretamente**
