@@ -100,4 +100,4 @@ Reprodução do Bug:
 
 **Resultado encontrado:** o valor total é $100 maior do que o valor do carrinho
 
-![Quarto Bug](imgs/bug-10-.png)
+![Quarto Bug](imgs/bug-10.png)
