@@ -18,7 +18,8 @@
 
 **Resultado encotrado:** O ícone de compartilhamento do X está redirecionando para uma página quebrada
 
-![Primeiro Bug](imgs/bug-2.png)
+![Primeiro Bug](imgs/bug-1.png)
+![Primeiro Bug](imgs/bug1.gif)
 
 
 
