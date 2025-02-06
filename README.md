@@ -1,8 +1,4 @@
 
-# 25 Bugs da AcademyBugs.com
-
-futura descrição
-
 ## Bugs Funcionais
 
 **[1º BUG] - Botão de compartilhamento no "X" não está funciondo corretamente**
@@ -33,4 +29,17 @@ futura descrição
 **Prioridade:** Alta \
 **Frequência:** Sempre com todas as moedas \
 **Environment:** Todos os navegadores
+
+**Reprodução do Bug:**
+- Abra https://academybugs.com
+- Ache a aba "Find Bugs" na barra de navegação
+- Clique em um produto
+- Clique no menu dropdown de "Select a Currency"
+- Troque a moeda
+
+**Resultado esperado:** O usuário pode trocar de moeda normalmente quando clicar na aba de "Select a currency"
+
+**Resultado encontrado:** A moeda não é alterada quando clicado em "Select a currency"
+
+![Primeiro Bug](imgs/bug-3.png)
 
