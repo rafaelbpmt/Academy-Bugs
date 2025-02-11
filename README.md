@@ -1,5 +1,5 @@
 
-## Bugs Funcionais
+## 🛠️ Bugs Funcionais
 
 **[1º BUG] - Botão de compartilhamento no "X" não está funcionando corretamente**
 
@@ -104,7 +104,7 @@ Reprodução do Bug:
 
 ![Quarto Bug Video](gifs/bug-5.gif)
 
-## Bugs Visuais
+## 🖥️ Bugs Visuais
 
 
 **[6º BUG] - Imagem da "Dark Grey Jeans"** \
@@ -142,3 +142,7 @@ Reprodução do Bug:
 **Resultado encontrado:** O botão "Sign In" está invadindo o footer da página  
 
 ![Quarto Bug Video](gifs/bug-7.gif)
+
+## 📝 Bugs de Conteúdo
+
+## ❌ Bugs de Performance
