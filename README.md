@@ -104,3 +104,34 @@ Reprodução do Bug:
 
 ![Quinto Bug Video](gifs/bug-4.gif)
 
+**[6º BUG] - Imagem da "Dark Grey Jeans"** \
+Issue Type: Visual \
+Prioridade: Média  \
+Frequência: Sempre\
+Environment: Todos os navegadores
+
+Reprodução do Bug:
+- Abra https://academybugs.com
+- Ache a aba "Find Bugs" na barra de navegação
+- Clique no produto "Dark Grey Jeans"
+
+**Resultado esperado:** A imagem deveria preencher todo o card como em todos os outros produtos da loja.
+
+**Resultado encontrado:** A imagem não está preenchendo totalmente o card.
+
+![alt text](image.png)
+
+**[7º BUG] - Botão "Sign In" no local errado** \
+Issue Type: Visual \
+Prioridade: Baixa \
+Frequência: Sempre \
+Environment: Todos os navegadores
+
+Reprodução do Bug:
+- Abra https://academybugs.com
+- Ache a aba "Find Bugs" na barra de navegação
+- Selecione um produto
+- Desça até o final da página
+- Localize o botão "Sign In" no canto inferior direito
+
+![alt text](image.png)
