@@ -102,7 +102,7 @@ Reprodução do Bug:
 
 **Resultado encontrado:** o valor total é $100 maior do que o valor do carrinho
 
-![Quinto Bug Video](gifs/bug-5.gif)
+![Quarto Bug Video](gifs/bug-4.gif)
 
 **[6º BUG] - Imagem da "Dark Grey Jeans"** \
 Issue Type: Visual \
@@ -119,7 +119,7 @@ Reprodução do Bug:
 
 **Resultado encontrado:** A imagem não está preenchendo totalmente o card.
 
-![Sexto Bug Video](gifs/bug-6.gif)
+![Quarto Bug Video](gifs/bug-4.gif)
 
 **[7º BUG] - Botão "Sign In" no local errado** \
 Issue Type: Visual \
@@ -138,4 +138,4 @@ Reprodução do Bug:
 
 **Resultado encontrado:** O botão "Sign In" está invadindo o footer da página  
 
-![Setimo Bug Video](gifs/bug-7.gif)
+![Quarto Bug Video](gifs/bug-4.gif)
