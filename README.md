@@ -164,7 +164,7 @@ Reprodução do Bug:
 
 ![Oitavo Bug Video](gifs/bug-8.gif)
 
-**[9º BUG] - Botão de comentário não está funcionando**
+**[ 9º BUG] - Botão de comentário não está funcionando**
 Issue Type: Crash \
 Prioridade: Média \
 Frequência: Sempre \
@@ -186,3 +186,59 @@ Reprodução do Bug:
 
 ## 📝 Bugs de Conteúdo
 
+**[10º BUG] - Descrição em Lorem Ipsum** \
+Issue Type: Conteúdo \
+Prioridade: Alta \
+Frequência: Sempre \
+Environment: Todos os navegadores
+
+Reprodução do Bug:
+- Abra https://academybugs.com
+- Ache a aba "Find Bugs" na barra de navegação
+- Clique em um produto
+- Leia a descrição do produto
+
+**Resultado esperado:** Descrição com informações condizentes com o produto.
+
+**Resultado encontrado:** Texto de preenchimento Lorem Ipsum 
+
+![Decimo Bug Video](gifs/bug-10.gif)
+
+**[11º BUG] - Typo nas cores dos produtos** \
+Issue Type: Conteúdo \
+Prioridade: Baixo \
+Frequência: Sempre \
+Environment: Todos os produtos
+
+Reprodução do Bug:
+- Abra https://academybugs.com
+- Ache a aba "Find Bugs" na barra de navegação
+- Selecione um produto com várias opções de cores ("Professional Suit", por exemplo)
+- Escolha as cores amarela e laranja
+
+**Resultado esperado:** A cor "yellow" e "orange" deveriam estar escritas corretamente
+
+**Resultado encontrado:** "Yellow" está como "Yelow" e "Orange" está como "Orang"
+
+![Decimo primeiro Bug Video](gifs/bug-11.gif)
+
+**[12º BUG] - Caracteries estranhos ao lado do produto**
+Issue Type: Conteúdo 
+Prioridade: Baixa
+Frequência: Sempre
+Environment: Todos os navegadores
+
+Reprodução do Bug:
+- Abra https://academybugs.com
+- Ache a aba "Find Bugs" na barra de navegação
+- Selecione um produto
+- Adicione o produto ao carrinho
+- Desça a página até a parte de "Shopping Cart" localizada no canto inferior direito
+- Passe o mouse sobre o segundo texto chamado "Shopping Cart"
+- Verifique os caracteries estranhos após o nome do produto que está no carrinho
+
+**Resultado esperado:** Caracteries apenas do nome do produto
+
+**Resultado encontrado:** Caracteries estranhos ao lado do nome do produto
+
+![Decimo terceiro Bug Video](gifs/bug-12.gif)
