@@ -134,4 +134,8 @@ Reprodução do Bug:
 - Desça até o final da página
 - Localize o botão "Sign In" no canto inferior direito
 
+**Resultado esperado:** Campo de Login com respiro na página, respeitando o espaçamento predefinido
+
+**Resultado encontrado:** O botão "Sign In" está invadindo o footer da página  
+
 ![alt text](image.png)
