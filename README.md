@@ -104,6 +104,9 @@ Reprodução do Bug:
 
 ![Quarto Bug Video](gifs/bug-5.gif)
 
+## Bugs Visuais
+
+
 **[6º BUG] - Imagem da "Dark Grey Jeans"** \
 Issue Type: Visual \
 Prioridade: Média  \
