@@ -222,11 +222,11 @@ Reprodução do Bug:
 
 ![Decimo primeiro Bug Video](gifs/bug-11.gif)
 
-**[12º BUG] - Caracteries estranhos ao lado do produto**
-Issue Type: Conteúdo 
-Prioridade: Baixa
-Frequência: Sempre
-Environment: Todos os navegadores
+**[12º BUG] - Caracteries estranhos ao lado do produto** \
+Issue Type: Conteúdo \
+Prioridade: Baixa \
+Frequência: Sempre \
+Environment: Todos os navegadores 
 
 Reprodução do Bug:
 - Abra https://academybugs.com
