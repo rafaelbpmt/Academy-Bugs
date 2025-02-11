@@ -143,6 +143,46 @@ Reprodução do Bug:
 
 ![Quarto Bug Video](gifs/bug-7.gif)
 
+## ❌ Bugs de Performance
+
+**[8º BUG] - Botões "View" não estão funcionando**
+
+Issue Type: Crash \
+Prioridade: Alta \
+Frequência: Sempre \
+Environment: Todos os navegadores
+
+Reprodução do Bug:
+- Abra https://academybugs.com
+- Ache a aba "Find Bugs" na barra de navegação
+- Clique no botão de mostrar 10 produtos ou no botão de 50 produtos
+
+
+**Resultado esperado:** O número de produtos mostrados deveria ser de acordo com a quantidade selecionada no botão
+
+**Resultado encontrado:** A página trava de acordo quando clica no número de resultado 
+
+![Oitavo Bug Video](gifs/bug-8.gif)
+
+**[9º BUG] - Botão de comentário não está funcionando**
+Issue Type: Crash \
+Prioridade: Média \
+Frequência: Sempre \
+Environment: Todos os navegadores 
+
+Reprodução do Bug:
+- Abra https://academybugs.com
+- Ache a aba "Find Bugs" na barra de navegação
+- Selecione um produto
+- Desçaa até o campo de comentários
+- Escreva um comentário e clique no botão "Post comment"
+
+
+**Resultado esperado:** Quando clicado em "Post comment", o usuário deveria conseguir postar seu comentário
+
+**Resultado encontrado:** Quando clicado em "Post comment" nada acontece
+
+![Nono Bug Video](gifs/bug-9.gif)
+
 ## 📝 Bugs de Conteúdo
 
-## ❌ Bugs de Performance
